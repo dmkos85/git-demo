@@ -1,2 +1,4 @@
 line first
 line second
+third file
+fourth file
