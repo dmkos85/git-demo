@@ -3,13 +3,3 @@ line second
 third file
 fourth file
 
-fifth line
-sixth line
-seventh line
-eighth line
-
-line 9
-line 10
-
-line 11
-line 12
